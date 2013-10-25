@@ -149,7 +149,7 @@ table {
 }
 body {
   font-family:'NanumGothic';
-  background: #f5f9fa;
+  background: #333333;
 }
 a {
   color: #00b0bb;
@@ -201,13 +201,13 @@ img {
   height: 150px;
 }
 .solutions-icon {
-  background: url(images/vision.png) center top no-repeat;
+  background: url(images/home-pic1.png) center top no-repeat;
 }
 .competitiveness-icon {
-  background: url(images/ic_launcher.png) center top no-repeat;
+  background: url(images/home-pic2.png) center top no-repeat;
 }
 .confidence-icon {
-  background: url(images/busan_asia.png) center top no-repeat;
+  background: url(images/home-pic3.png) center top no-repeat;
 }
 #lightbox {
   display: none;
@@ -277,7 +277,7 @@ img {
   filter: dropshadow(color=#008b94, offx=0, offy=1);
 }
 #page header {
-  background: url(images/header-bg.png) center top no-repeat;
+  
   margin: 0 auto;
   text-align: center;
 }
@@ -579,19 +579,19 @@ img {
   margin: 0 3px 5px 2px;
 }
 #page .references-wrapper .references .categories .group  > div:hover {
-  background: url(images/category1-bg-hover.png) 0 0 no-repeat;
+  background: url(images/category1-bg-hover_1.png) 0 0 no-repeat;
 }
 #page .references-wrapper .references .categories .group .category-2 {
-  background: url(images/category1-bg.png) 0 0 no-repeat;
+  background: url(images/category1-bg_1.png) 0 0 no-repeat;
 }
 #page .references-wrapper .references .categories .group .category-3 {
-  background: url(images/category2-bg.png) 0 0 no-repeat;
+  background: url(images/category2-bg_1.png) 0 0 no-repeat;
 }
 #page .references-wrapper .references .categories .group .category-4 {
-  background: url(images/category3-bg.png) 0 0 no-repeat;
+  background: url(images/category3-bg_1.png) 0 0 no-repeat;
 }
 #page .references-wrapper .references .categories .group .category-5 {
-  background: url(images/category4-bg.png) 0 0 no-repeat;
+  background: url(images/category4-bg_1.png) 0 0 no-repeat;
 }
 #page .references-wrapper .references .categories  > div.category-1,
 #page .references-wrapper .references .categories  > div.category-6 {
@@ -1357,7 +1357,6 @@ img {
   .blog,
   footer {
     width: 1200px;
-	
   }
   .blog-wrapper {
     clear: both;
